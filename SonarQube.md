@@ -1,5 +1,7 @@
 (1) docker 拉取 images
-![[(01)docker_pull.jpg]]
+
+<img src="[https://github.com/Axel1227/Line_Bot/blob/main/img/Heroku.jpg](https://github.com/Axel1227/SonarQube/blob/main/image/(01)docker_pull.jpg)" width="80%">
+
 
 (2) 建立Containers並執行SonarQube
 ![[(02)docker_run.jpg]]
